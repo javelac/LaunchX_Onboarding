@@ -1,3 +1,2 @@
 # LaunchX_Onboarding
-LaunchX_Onboarding
-José Antonio Vela Castillo
+By José Antonio Vela Castillo
